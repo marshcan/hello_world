@@ -1,2 +1,7 @@
 # hello_world
-first repository 
+# first repository 
+
+message = "Just editing"
+print(message)
+
+
